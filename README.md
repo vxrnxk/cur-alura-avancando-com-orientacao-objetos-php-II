@@ -4,3 +4,4 @@ Curso Alura Avançando com Orientação a Objetos com PHP: Herança, Polimorfism
 ## Aulas
 - [Aula 1 - Herança](https://github.com/vxrnxk/cur-alura-avancando-com-orientacao-objetos-php-II/tree/master/aula-01)
 - [Aula 2 - Namespace e Autoload](https://github.com/vxrnxk/cur-alura-avancando-com-orientacao-objetos-php-II/tree/master/aula-02)
+- [Aula 3 - Classes e métodos abstratos](https://github.com/vxrnxk/cur-alura-avancando-com-orientacao-objetos-php-II/tree/master/aula-03)
